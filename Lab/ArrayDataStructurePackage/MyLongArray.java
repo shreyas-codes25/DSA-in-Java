@@ -1,4 +1,4 @@
-package ArrayDataStructurePackage;
+package arrayDataStructurePackage;
 /**
  * This class is MyLongArray with attributes a, currentIndex and methods find(), insert(), getElem(), delete(), dupDelete(), display(), insert(), deleteAt().
  * @author Krish Porwal
