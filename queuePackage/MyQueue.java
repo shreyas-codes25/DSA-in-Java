@@ -26,6 +26,7 @@ public class MyQueue<E> implements Queue<E> {
      */
     public int size() {
         return size;
+        //do yop allow update
     }
     /**
      * Checks if the queue is empty.
